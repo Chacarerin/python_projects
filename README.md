@@ -41,4 +41,4 @@ Para ejecutar la mayoría de estos proyectos necesitarás tener Python instalado
    ```
 
 ---
-*Desarrollado con ❤️ por Rubén Schnettler*
+*Desarrollado por Rubén Schnettler.*
